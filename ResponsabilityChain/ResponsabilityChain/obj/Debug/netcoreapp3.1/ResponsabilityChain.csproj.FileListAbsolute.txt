@@ -1,0 +1,13 @@
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.exe
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.deps.json
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.runtimeconfig.json
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.runtimeconfig.dev.json
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.dll
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\bin\Debug\netcoreapp3.1\ResponsabilityChain.pdb
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.csprojAssemblyReference.cache
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.AssemblyInfoInputs.cache
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.AssemblyInfo.cs
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.csproj.CoreCompileInputs.cache
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.dll
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.pdb
+C:\Users\fenix\Desktop\Patterns\ResponsabilityChain\ResponsabilityChain\obj\Debug\netcoreapp3.1\ResponsabilityChain.genruntimeconfig.cache
