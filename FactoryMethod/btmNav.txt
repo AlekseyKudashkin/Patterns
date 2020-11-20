@@ -1,0 +1,18 @@
+return Container(
+      child: Scaffold(
+        body: sectionIndex == 0 ? Hairs() : Text('Body'),
+        appBar: AppBar(
+          title: Text('Barbos'),
+          leading: Icon(Icons.content_cut),
+          actions: <Widget>[
+            FlatButton.icon(
+                onPressed: () {
+                  AuthService().logOut();
+                },
+                icon: Icon(Icons.supervised_user_circle, color: Colors.black54),
+                label: SizedBox.shrink())
+          ],
+        ),
+        bottomNavigationBar: curvedNavigationBar,
+      ),
+    );
